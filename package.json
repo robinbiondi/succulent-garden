@@ -1,0 +1,28 @@
+{
+  "name": "succulent-garden",
+  "version": "1.0.0",
+  "description": "Creative Coding Club Succulent Garden",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinbiondi/succulent-garden.git"
+  },
+  "keywords": [
+    "Creative",
+    "Coding",
+    "Club"
+  ],
+  "author": "Robin Biondi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinbiondi/succulent-garden/issues"
+  },
+  "homepage": "https://github.com/robinbiondi/succulent-garden#readme",
+  "dependencies": {
+    "mithril": "^1.1.1",
+    "requirejs": "^2.3.3"
+  }
+}
